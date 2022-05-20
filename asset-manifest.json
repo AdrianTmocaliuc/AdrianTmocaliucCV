@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AdrianTmocaliucCV/static/css/main.dbcd3fe6.css",
-    "main.js": "/AdrianTmocaliucCV/static/js/main.66b51a0f.js",
+    "main.js": "/AdrianTmocaliucCV/static/js/main.b6836254.js",
     "static/media/AdrianTmocaliuc.jpg": "/AdrianTmocaliucCV/static/media/AdrianTmocaliuc.1d622cfb834636561043.jpg",
     "static/media/sprite.svg": "/AdrianTmocaliucCV/static/media/sprite.f4f9671d1ea5f9c0afb9a75085fe4cf3.svg",
     "index.html": "/AdrianTmocaliucCV/index.html",
     "main.dbcd3fe6.css.map": "/AdrianTmocaliucCV/static/css/main.dbcd3fe6.css.map",
-    "main.66b51a0f.js.map": "/AdrianTmocaliucCV/static/js/main.66b51a0f.js.map"
+    "main.b6836254.js.map": "/AdrianTmocaliucCV/static/js/main.b6836254.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcd3fe6.css",
-    "static/js/main.66b51a0f.js"
+    "static/js/main.b6836254.js"
   ]
 }
