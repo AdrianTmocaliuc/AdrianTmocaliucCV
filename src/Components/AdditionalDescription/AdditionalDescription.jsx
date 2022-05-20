@@ -1,12 +1,12 @@
 import List from "Components/List/List";
-import s from "./AppliedDescription.module.scss";
+import s from "./additionalDescription.module.scss";
 
-const appliedDescription = ({ data }) => {
+const additionalDescription = ({ data }) => {
   const { projects, description, workExperience, education } = data;
 
   return (
-    <div className={s.applied}>
-      <h3>Learner in Front-End Developer</h3>
+    <div className={s.additional}>
+      <h3>Front-End Developer</h3>
       <h1 className={s.name} style={{ marginTop: "20px" }}>
         Adrian Tmocaliuc
       </h1>
@@ -40,4 +40,4 @@ const appliedDescription = ({ data }) => {
   );
 };
 
-export default appliedDescription;
+export default additionalDescription;

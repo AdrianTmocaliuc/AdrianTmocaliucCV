@@ -1,6 +1,6 @@
 import { Component } from "react";
 
-import AppliedDescription from "Components/AppliedDescription";
+import AppliedDescription from "Components/AdditionalDescription";
 import MainDescription from "Components/MainDescription";
 
 import data from "dataBase/db.json";

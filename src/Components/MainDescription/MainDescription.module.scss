@@ -39,9 +39,17 @@
     align-content: center;
     margin-top: 5px;
 }
-.phone, .mail{
+.icon{
     margin-right: 5px;
     width: 20px;
     height: 20px;
     fill: var(--third-text-cl);
+}
+
+.linkedin{
+    fill: #0e76a8;
+}
+
+.github {
+    fill: #0cacf4;
 }
