@@ -4,12 +4,12 @@
   "projects": [
     {
       "position": "Developer",
-      "technologies": "HTML, SASS, JavaScript, React, Redux.",
+      "technologies": "HTML, SASS, JavaScript, React, Redux, Redux-Toolkit.",
       "githubLink": "https://github.com/memx86/team-project-react",
       "lifePageLink": "https://memx86-team-project-wallet.netlify.app/home"
     },
     {
-      "position": "Scrum Mater",
+      "position": "Scrum Master",
       "technologies": "HTML, SASS, JavaScript.",
       "githubLink": "https://github.com/Uberdar/Team_New_JS_Project",
       "lifePageLink": "https://uberdar.github.io/Team_New_JS_Project/"
@@ -65,7 +65,7 @@
     {
       "title": "Team Member Retail",
       "company": "EAT Company, London, EC1A4HY",
-      "date": "March 2015 - October 2018 ",
+      "date": "March 2019 - October 2020 ",
       "city": "United Kingdom",
       "description": [
         "Serving customers, using the computerized till system, cash and card handling, stock replenishment, price reductions and cashing up.",
@@ -88,12 +88,11 @@
     {
       "title": "Pool Lifeguard",
       "company": "Student and Exchange Visitor Programme), Six Flags America, Largo",
-      "date": "Janury 2011 - February 2019",
+      "date": "May 2013 - September 2013",
       "city": "United States",
       "description": [
         "Performing various maintenance duties as directed to maintain a clean and safe facility.",
         "Assessing and recording students learning progress.",
-        "Distributing company products and services.",
         "Providing emergency care and treatment as required until the arrival of emergency medical services.",
         "Providing first AID."
       ]
@@ -109,7 +108,7 @@
     {
       "title": "Master Degree in Architecture and Civil Engineering",
       "location": "Technical University of Moldova, Chisinau (Moldova)",
-      "date": "September 2010 - June 2016"
+      "date": "September 2014 - June 2016"
     }
   ]
 }
