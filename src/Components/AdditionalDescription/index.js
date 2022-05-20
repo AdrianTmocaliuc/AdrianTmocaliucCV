@@ -1,1 +1,1 @@
-export { default } from "./AppliedDescription";
+export { default } from "./AdditionalDescription";

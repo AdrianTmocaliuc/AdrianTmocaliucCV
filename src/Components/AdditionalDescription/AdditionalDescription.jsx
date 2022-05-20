@@ -1,5 +1,5 @@
 import List from "Components/List/List";
-import s from "./additionalDescription.module.scss";
+import s from "./AdditionalDescription.module.scss";
 
 const additionalDescription = ({ data }) => {
   const { projects, description, workExperience, education } = data;

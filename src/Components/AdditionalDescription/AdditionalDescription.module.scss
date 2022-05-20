@@ -10,6 +10,9 @@
 }
 .workExperience{
     margin-top: 30px;
+    h2:not(:first-child){
+        margin-top: 20px;
+    }
 }
 .work{
     margin-top: 30px;
